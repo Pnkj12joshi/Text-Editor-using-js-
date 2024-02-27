@@ -1,0 +1,60 @@
+.container {
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
+  margin: 10px;
+  height: 80vh;
+}
+
+.docscont {
+  border: 3px solid black;
+  height: 100%;
+}
+header {
+  background-color: beige;
+  border: 1px solid;
+  display: flex;
+  margin: 5px;
+}
+.fontsize {
+  border: 1px solid;
+  margin: 5px;
+  padding: 5px;
+  flex: 1;
+}
+.fontcolor {
+  border: 1px solid;
+  margin: 5px;
+  padding: 5px;
+  flex: 1;
+}
+#textcontainer {
+  margin: 5px;
+  padding: 5px;
+  width: 80%;
+  height: 80%;
+}
+select {
+  width: 50%;
+  margin: 5px;
+  height: 90%;
+}
+.fontbtn {
+  border: 1px solid;
+  margin: 5px;
+  padding: 5px;
+  flex: 1;
+}
+button {
+  width: 90%;
+  margin: 5px;
+  height: 90%;
+  border: none;
+  outline: none;
+}
+.bordersize {
+  width: 50%;
+  margin: 5px;
+  height: 90%;
+}
